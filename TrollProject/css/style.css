@@ -1,0 +1,43 @@
+* {
+    margin: 0 70px;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+#troll-section {
+    margin-top: 100px;
+}
+
+#troll-section .col {
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #333;
+    box-shadow: 5px 8px 10px gray;
+}
+
+.wrapper {
+    padding: 20px;
+    padding-bottom: 50px;
+}
+
+h1 {
+    font-size: 1.7em;
+    padding: 30px;
+    color: whitesmoke;
+}
+
+.btn {
+    background-color: whitesmoke;
+    color: gray;
+    border-radius: 10px;
+    width: 30%;
+    transition: all .2s linear;
+}
+
+.btn:hover {
+    color: white;
+    background-color: #222;
+}
